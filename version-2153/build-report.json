@@ -1,0 +1,21 @@
+{
+    "parsed_movies": 2000,
+    "detail_pages": 2000,
+    "category_pages": 10,
+    "category_counts": {
+        "日韩新片馆": 200,
+        "年度热映馆": 200,
+        "悬疑剧情馆": 200,
+        "青春校园馆": 200,
+        "动画奇幻馆": 200,
+        "爱情治愈馆": 200,
+        "动作犯罪馆": 200,
+        "科幻冒险馆": 200,
+        "经典口碑馆": 200,
+        "综合片库馆": 200
+    },
+    "html_pages": 2014,
+    "jpg_files_in_zip": 0,
+    "all_html_have_baidu_script": true,
+    "all_movies_have_category": true
+}
